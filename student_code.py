@@ -1,2 +1,2 @@
 def shouldReturnTrue():
-	return true
+	return True
