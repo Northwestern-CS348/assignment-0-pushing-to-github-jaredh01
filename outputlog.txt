@@ -1,0 +1,14 @@
+TESTS WITH ERRORS 
+test1 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\pushing\gradingtests.py", line 7, in test1
+    self.assertTrue(shouldReturnTrue())
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\pushing\student_code.py", line 2, in shouldReturnTrue
+    return true
+NameError: name 'true' is not defined
+
+-------------------------------
+TESTS FAILED  
+-------------------------------
+TESTS SKIPPED 
+-------------------------------
